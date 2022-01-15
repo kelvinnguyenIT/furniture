@@ -1,0 +1,41 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 06 Aug 2020 20:04:50 at https://dualeo-furniture.myharavan.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://dualeo-furniture.myharavan.com/ -O1 "E:\furniture" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:11:47	Error: 	"Not Found" (404) at link theme.hstatic.net/1000325675/1000418614/14/owl.video.play.png (from theme.hstatic.net/1000325675/1000418614/14/owl.carousel.min.css?v=82)
+20:12:40	Error: 	"Not Found" (404) at link https://dualeo-furniture.myharavan.com/noi-that-phong-ngu (from https://dualeo-furniture.myharavan.com/products/ban-cafe-tron-go-dep)
+20:12:54	Error: 	"Not Found" (404) at link https://dualeo-furniture.myharavan.com/hot-products (from https://dualeo-furniture.myharavan.com/products/ban-bar-dai-kinh-dep)
+20:12:59	Error: 	"Not Found" (404) at link https://dualeo-furniture.myharavan.com/onsale (from https://dualeo-furniture.myharavan.com/products/ghe-sopha-don-dep)
+20:13:00	Error: 	"Not Found" (404) at link https://dualeo-furniture.myharavan.com/san-pham-moi (from https://dualeo-furniture.myharavan.com/products/ghe-sopha-don-em-ai)
+20:13:00	Error: 	"Not Found" (404) at link https://bizweb.dktcdn.net/thumb/large/100/005/781/products/31-2.jpg?v=1444819743583 (from https://dualeo-furniture.myharavan.com/products/sofa-don-sfd01)
+20:13:05	Error: 	"Not Found" (404) at link https://bizweb.dktcdn.net/thumb/large/100/005/781/products/re.jpg?v=1445048314820 (from https://dualeo-furniture.myharavan.com/products/den-trang-tri-vach-cao-cap-yui)
+20:13:05	Error: 	"Not Found" (404) at link https://bizweb.dktcdn.net/thumb/large/100/005/781/products/light-living-0114-802532-2-zoom.jpg?v=1445048314827 (from https://dualeo-furniture.myharavan.com/products/den-trang-tri-vach-cao-cap-yui)
+20:13:05	Error: 	"Not Found" (404) at link https://dualeo-furniture.myharavan.com/frontpage (from https://dualeo-furniture.myharavan.com/products/den-trang-tri-vach-cao-cap-yui)
+20:13:12	Error: 	"Not Found" (404) at link https://bizweb.dktcdn.net/thumb/large/100/005/781/products/light-living-6807-117202-1-zoom.jpg?v=1445048985763 (from https://dualeo-furniture.myharavan.com/products/den-vach-kinh-nv-86664)
+20:13:12	Error: 	"Not Found" (404) at link https://bizweb.dktcdn.net/thumb/large/100/005/781/products/fos-lighting-0573-57988-1-zoom.jpg?v=1445048985767 (from https://dualeo-furniture.myharavan.com/products/den-vach-kinh-nv-86664)
+20:13:47	Error: 	"Not Found" (404) at link theme.hstatic.net/1000325675/1000418614/14/images/ui-icons_444444_256x240.png (from theme.hstatic.net/1000325675/1000418614/14/jquery-ui.min.css?v=82)
+20:13:47	Error: 	"Not Found" (404) at link theme.hstatic.net/1000325675/1000418614/14/images/ui-icons_555555_256x240.png (from theme.hstatic.net/1000325675/1000418614/14/jquery-ui.min.css?v=82)
+20:13:47	Error: 	"Not Found" (404) at link theme.hstatic.net/1000325675/1000418614/14/images/ui-icons_ffffff_256x240.png (from theme.hstatic.net/1000325675/1000418614/14/jquery-ui.min.css?v=82)
+20:13:47	Error: 	"Not Found" (404) at link theme.hstatic.net/1000325675/1000418614/14/images/ui-icons_777620_256x240.png (from theme.hstatic.net/1000325675/1000418614/14/jquery-ui.min.css?v=82)
+20:13:47	Error: 	"Not Found" (404) at link theme.hstatic.net/1000325675/1000418614/14/images/ui-icons_cc0000_256x240.png (from theme.hstatic.net/1000325675/1000418614/14/jquery-ui.min.css?v=82)
+20:13:47	Error: 	"Not Found" (404) at link theme.hstatic.net/1000325675/1000418614/14/images/ui-icons_777777_256x240.png (from theme.hstatic.net/1000325675/1000418614/14/jquery-ui.min.css?v=82)
+20:13:51	Warning: 	Found for https://dualeo-furniture.myharavan.com/admin/
+20:13:51	Warning: 	File has moved from https://dualeo-furniture.myharavan.com/admin/ to /admin/auth/login?ReturnUrl=%2fadmin%2f
+20:13:51	Error: 	"Not Found" (404) at link https://bizweb.dktcdn.net/thumb/large/100/005/781/products/krm-0646-329922-1-zoom.jpg?v=1444971373190 (from https://dualeo-furniture.myharavan.com/products/bong-den-dty)
+20:13:51	Error: 	"Not Found" (404) at link https://bizweb.dktcdn.net/thumb/large/100/005/781/products/krm-2399-080522-1-zoom.jpg?v=1444971373197 (from https://dualeo-furniture.myharavan.com/products/bong-den-dty)
+20:13:51	Error: 	"Not Found" (404) at link https://bizweb.dktcdn.net/thumb/large/100/005/781/products/krm-1290-40549-1-zoom.jpg?v=1444977784030 (from https://dualeo-furniture.myharavan.com/products/moc-treo-thong-minh)
+20:13:51	Error: 	"Not Found" (404) at link https://bizweb.dktcdn.net/thumb/large/100/005/781/products/krm-2420-850522-1-zoom.jpg?v=1444977784037 (from https://dualeo-furniture.myharavan.com/products/moc-treo-thong-minh)
+20:13:51	Error: 	"Not Found" (404) at link theme.hstatic.net/1000325675/1000418614/14/star.svg (from theme.hstatic.net/1000325675/1000418614/14/lightbox.css?v=82)
+20:13:58	Error: 	"Not Found" (404) at link https://bizweb.dktcdn.net/thumb/large/100/005/781/products/krm-0587-378922-1-zoom.jpg?v=1444971801730 (from https://dualeo-furniture.myharavan.com/products/gia-treo-khan-interdesign)
+20:13:58	Error: 	"Not Found" (404) at link https://bizweb.dktcdn.net/thumb/large/100/005/781/products/krm-2392-190522-1-zoom.jpg?v=1444971801737 (from https://dualeo-furniture.myharavan.com/products/gia-treo-khan-interdesign)
+20:13:58	Error: 	"Not Found" (404) at link https://bizweb.dktcdn.net/thumb/large/100/005/781/products/krm-1213-281401-1-zoom.jpg?v=1444979483013 (from https://dualeo-furniture.myharavan.com/products/khay-dung-xa-phong)
+20:13:58	Error: 	"Not Found" (404) at link https://bizweb.dktcdn.net/thumb/large/100/005/781/products/krm-1291-20549-1-zoom-cd6d5fc5-005c-4a89-870a-2ac2c9c67396.jpg?v=1444979483017 (from https://dualeo-furniture.myharavan.com/products/khay-dung-xa-phong)
+20:13:58	Error: 	"Forbidden" (403) at link https://dualeo-furniture.myharavan.com/admin/Content/theme/img/loading.gif (from https://dualeo-furniture.myharavan.com/admin/Content/theme/css/css?v=-n6gHhJjHmRLebYLAZuvsXgPUtrkystvoQE-e-0bK-k1)
+20:13:58	Error: 	"Forbidden" (403) at link https://dualeo-furniture.myharavan.com/admin/Content/theme/content/images/store.png (from https://dualeo-furniture.myharavan.com/admin/Content/theme/css/css?v=-n6gHhJjHmRLebYLAZuvsXgPUtrkystvoQE-e-0bK-k1)
+
+HTTrack Website Copier/3.49-2 mirror complete in 9 minutes 9 seconds : 429 links scanned, 398 files written (28340908 bytes overall) [19204239 bytes received at 34980 bytes/sec], 13014871 bytes transferred using HTTP compression in 156 files, ratio 25%, 2.2 requests per connection
+(28 errors, 2 warnings, 0 messages)
